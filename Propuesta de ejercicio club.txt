@@ -1,4 +1,8 @@
 /**
+Nombre: Viviana Isabel Salazar Vásquez
+No. control: 19161403
+hora: 11am - 12am
+Ejercicio:
 Se realizo una encuesta a una muestra de 30 alumnos de primer semestre del Instituto Tecnologico de Oaxaca en la cual se les preguntaba por su edad, una vez obtenidos los datos se requiere saber cual es 
 la edad promedio de los alumnos que cursan el primer semestre asi como saber cuantos son menores de los 18 años.
  */
